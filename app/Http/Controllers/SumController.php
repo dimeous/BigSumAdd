@@ -22,6 +22,9 @@ class SumController extends Controller
     // функция расчета
     public function calculate_result($data)
     {
+        //проверка пустой строки
+        $data['num1']=($data['num1']=='')?0:$data['num1'];
+        $data['num2']=($data['num2']=='')?0:$data['num2'];
         // максимальное значение для int
         $max_int=PHP_INT_MAX;
         // опеределяем, сможем ли выполнить простым сложением

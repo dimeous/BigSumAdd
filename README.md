@@ -1,4 +1,4 @@
-Server Requirements
+Требование к серверу:
 
  Все эти требования удовлетворяются виртуальной машиной Laravel Homestead,поэтому настоятельно рекомендуется использовать Homestead в качестве локальной среды разработки Laravel.
 
@@ -15,13 +15,13 @@ Server Requirements
     XML PHP Extension
 
 
-Установка
+Установка:
 
-git clone git@github.com:gothinkster/laravel-testapp.git
+git clone git@github.com:https://github.com/dimeous/BigSumAdd.git
 
-Переключиться в папку testapp
+Переключиться в папку BigSumAdd
 
-cd testapp
+cd BigSumAdd
 
 Установите все зависимости, используя composer
 
