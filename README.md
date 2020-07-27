@@ -21,7 +21,7 @@
 
 Установка:
 
-git clone git@github.com:https://github.com/dimeous/BigSumAdd.git
+git clone https://github.com/dimeous/BigSumAdd
 
 Переключиться в папку BigSumAdd
 
